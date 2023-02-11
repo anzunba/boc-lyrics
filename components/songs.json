@@ -1,0 +1,122 @@
+[
+  {
+    "id": "aurora-arc",
+    "name": { "en": "aurora arc", "ja": "" },
+    "image": "",
+    "publishedAt": "",
+    "albums": ["aurora arc"],
+    "published": false
+  },
+  {
+    "id": "gekkou",
+    "name": { "en": "Gekkou", "ja": "月虹" },
+    "image": "",
+    "publishedAt": "",
+    "albums": ["aurora arc"],
+    "published": false
+  },
+  {
+    "id": "aurora",
+    "name": { "en": "Aurora", "ja": "" },
+    "image": "",
+    "publishedAt": "",
+    "albums": ["aurora arc"],
+    "published": false
+  },
+  {
+    "id": "kinen-satsuei",
+    "name": { "en": "Kinen Satsuei", "ja": "記念撮影" },
+    "image": "",
+    "publishedAt": "",
+    "albums": ["aurora arc"],
+    "published": false
+  },
+  {
+    "id": "jangle-gym",
+    "name": { "en": "Jangle Gym", "ja": "ジャングルジム" },
+    "image": "",
+    "publishedAt": "",
+    "albums": ["aurora arc"],
+    "published": false
+  },
+  {
+    "id": "ribon",
+    "name": { "en": "Ribon", "ja": "リボン" },
+    "image": "",
+    "publishedAt": "",
+    "albums": ["aurora arc"],
+    "published": false
+  },
+  {
+    "id": "serius",
+    "name": { "en": "Serius", "ja": "シリウス" },
+    "image": "",
+    "publishedAt": "",
+    "albums": ["aurora arc"],
+    "published": false
+  },
+  {
+    "id": "aria",
+    "name": { "en": "Aria", "ja": "アリア" },
+    "image": "",
+    "publishedAt": "",
+    "albums": ["aurora arc"],
+    "published": false
+  },
+  {
+    "id": "hanashi-ga-shitai-yo",
+    "name": { "en": "Hanashi ga shitai yo", "ja": "話がしたいよ" },
+    "image": "",
+    "publishedAt": "",
+    "albums": ["aurora arc"],
+    "published": false
+  },
+  {
+    "id": "answer",
+    "name": { "en": "Answer", "ja": "アンサー" },
+    "image": "",
+    "publishedAt": "",
+    "albums": ["aurora arc"],
+    "published": false
+  },
+  {
+    "id": "bouen-no-march",
+    "name": { "en": "Boen no march", "ja": "望遠のマーチ" },
+    "image": "",
+    "publishedAt": "",
+    "albums": ["aurora arc"],
+    "published": false
+  },
+  {
+    "id": "spica",
+    "name": { "en": "Spica", "ja": "" },
+    "image": "",
+    "publishedAt": "",
+    "albums": ["aurora arc"],
+    "published": false
+  },
+  {
+    "id": "shin-sekai",
+    "name": { "en": "Shin sekai", "ja": "新世界" },
+    "image": "",
+    "publishedAt": "",
+    "albums": ["aurora arc"],
+    "published": false
+  },
+  {
+    "id": "nagareboshi-no-shotai",
+    "name": { "en": "Nagareboshi no shotai", "ja": "流れ星の正体" },
+    "image": "",
+    "publishedAt": "",
+    "albums": ["aurora arc"],
+    "published": false
+  },
+  {
+    "id": "payapapa-ace",
+    "name": { "en": "Payapapa Ace", "ja": "ぱやぱぱエース" },
+    "image": "",
+    "publishedAt": "",
+    "albums": ["aurora arc"],
+    "published": false
+  }
+]

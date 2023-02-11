@@ -1,9 +1,14 @@
 [
   {
-    "id": 1,
-    "publishedAt": "",
+    "id": "lost-man",
+    "publishedAt": "2003-3-12",
+    "image": "/lost-man.jpeg",
     "ja": {
       "title": "ロストマン",
+      "album": "ユグドラシル",
+      "description": "",
+      "composer": "藤原基央",
+      "lyricist" : "藤原基央", 
       "lyrics": [
         [
           "状況はどうだい",
@@ -81,85 +86,111 @@
     },
     "en": {
       "title": "Lostman",
+      "album": "Yggdrasill",
+      "description": "",
+      "composer": "Motoo Fujiwara",
+      "lyricist" : "Motoo Fujiwara", 
       "lyrics": [
-        "How's the situation?",
-        "I ask myself",
-        "Do you still remember",
-        "The beginning of this journey?",
+        [
+          "How's the situation?",
+          "I ask myself",
+          "Do you still remember",
+          "The beginning of this journey?"
+        ],
+        [
+          "I prayed that the road I chose",
+          "Was the right one",
 
-        "I prayed that the road I chose",
-        "Was the right one",
+          "My ears head many different",
+          "Types of footsteps",
+          "All of those sounds pile up",
+          "And then grow distant"
+        ],
+        [
+          "You'll forget you were lonely",
+          "I'll say it again",
+          "No matter how the night passes",
+          "The sun that rises is the same"
+        ],
 
-        "My ears head many different",
-        "Types of footsteps",
-        "All of those sounds pile up",
-        "And then grow distant",
+        [
+          "I tore up",
+          "The handmade map",
+          "When I was in the middle of the journey",
+          "My unmoving compass",
+          "Held in one had",
+          "Straining my blurry eyes"
+        ],
 
-        "You'll forget you were lonely",
-        "I'll say it again",
-        "No matter how the night passes",
-        "The sun that rises is the same",
+        [
+          "In this world, where I've lost you",
+          "I keep searching for something",
+          "I realized I was lost",
+          "But pretended not to notice"
+        ],
 
-        "I tore up",
-        "The handmade map",
-        "When I was in the middle of the journey",
-        "My unmoving compass",
-        "Held in one had",
-        "Straining my blurry eyes",
+        [
+          "How's the situation?",
+          "I ask the absent you",
+          "I wonder if my voice will reach",
+          "Over the distance between us"
+        ],
 
-        "In this world, where I've lost you",
-        "I keep searching for something",
-        "I realized I was lost",
-        "But pretended not to notice",
+        [
+          "What I've forgotten was warmth",
+          "Slowly I grew chilled",
+          "How can I pass this night",
+          "So that I can remember?"
+        ],
 
-        "How's the situation?",
-        "I ask the absent you",
-        "I wonder if my voice will reach",
-        "Over the distance between us",
+        [
+          "I waved my hand strongly",
+          "Toward your back",
+          "I cried goodbye",
+          "When you open the blueprint to the map of where I dream now",
+          "I wonder what sort of face you will make?"
+        ],
 
-        "What I've forgotten was warmth",
-        "Slowly I grew chilled",
-        "How can I pass this night",
-        "So that I can remember?",
+        [
+          "That's the world I wished for",
+          "And so now I keep walking",
+          "To the end of my clumsy journey",
+          "As I pray that I was right"
+        ],
 
-        "I waved my hand strongly",
-        "Toward your back",
-        "I cried goodbye",
-        "When you open the blueprint to the map of where I dream now",
-        "I wonder what sort of face you will make?",
+        [
+          "Ever since that day",
+          "It's felt as if time has stopped",
+          "Your back grew distant and disappeared",
+          "Ah, I realized I was a lost man",
+          "Ever so neatly, we tore apart",
+          "The drawing named our memories"
+        ],
 
-        "That's the world I wished for",
-        "And so now I keep walking",
-        "To the end of my clumsy journey",
-        "As I pray that I was right",
+        [
+          "I waved my hand strongly",
+          "Toward your back that day",
+          "Goodbye",
+          "My compass begins to move",
+          "It tells me where I am",
+          "Well, shall we go then?",
+          "Lost man"
+        ],
 
-        "Ever since that day",
-        "It's felt as if time has stopped",
-        "Your back grew distant and disappeared",
-        "Ah, I realized I was a lost man",
-        "Ever so neatly, we tore apart",
-        "The drawing named our memories",
+        [
+          "The torn-up handmade map",
+          "Gives my current position a landmark",
+          "This is the starting point, my feet step out",
+          "And take their first step ever"
+        ],
 
-        "I waved my hand strongly",
-        "Toward your back that day",
-        "Goodbye",
-        "My compass begins to move",
-        "It tells me where I am",
-        "Well, shall we go then?",
-        "Lost man",
+        [
+          "In this world, where I'd forgotten you",
+          "I'm going to find the time in which we loved each other",
+          "To the end of my mistaken journey"
+        ],
 
-        "The torn-up handmade map",
-        "Gives my current position a landmark",
-        "This is the starting point, my feet step out",
-        "And take their first step ever",
-
-        "In this world, where I'd forgotten you",
-        "I'm going to find the time in which we loved each other",
-        "To the end of my mistaken journey",
-
-        "As I pray that I am right",
-
-        "As I pray that we will meet again"
+        ["As I pray that I am right", "As I pray that we will meet again"]
       ]
     }
   }

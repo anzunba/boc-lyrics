@@ -1,10 +1,11 @@
 import { Grid, Box, Typography } from '@mui/material';
 import React from 'react';
 import data from '../../data.json';
+import Image from 'next/image';
 const Detail = () => {
   return (
     <Box bgcolor="rgba(144, 202, 249, .2)" width="100%" ml="260px">
-      <Grid container spacing={0} p={3}>
+      <Grid container spacing={0} p={3} color="secondary.contrastText">
         <Grid item xs={2} p={3}>
           <iframe
             width="100%"
@@ -14,8 +15,14 @@ const Detail = () => {
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             allowFullScreen
           />
+          <Image
+            src={data[0].image}
+            alt="lostman"
+            width="250"
+            height="250"
+          />
         </Grid>
-        <Grid item xs={5} p={3} color="secondary.contrastText">
+        <Grid item xs={5} p={3}>
           <Typography variant="h4" pb={3}>
             {data[0].ja.title}
           </Typography>
@@ -28,13 +35,15 @@ const Detail = () => {
           ))}
         </Grid>
         <Grid item xs={5} p={3}>
-        <Typography variant="h4" pb={3}>
+          <Typography variant="h4" pb={3}>
             {data[0].en.title}
           </Typography>
           {data[0].en.lyrics.map((phrase, i) => (
-            <Typography key={i} pb={3}>
-              {phrase}
-            </Typography>
+            <Box key={i} pb={3}>
+              {phrase.map((line, j) => (
+                <Typography key={`${i}_${j}`}>{line}</Typography>
+              ))}
+            </Box>
           ))}
         </Grid>
       </Grid>
